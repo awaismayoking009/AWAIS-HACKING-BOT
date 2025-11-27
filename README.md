@@ -2,11 +2,12 @@
 
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
-<div align="center"> 
-  <a href="https://ibb.co/wVckhCV"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Awais+mayo-Bot;Multi+Device+Whatsapp+Bot;Coded+By+AWAIS MAYO KING 009" alt="Typing SVG" />
-  </a> 
-</div> 
+<div align="center">
+  <a href="https://github.com/awaismayoking009">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=500&color=FF0000&center=true&vCenter=true&width=950&height=120&lines=WELCOME+TO+AWAIS+MD+BOT+%F0%9F%98%B1;POWERED+BY+%5BAWAIS+MAYO%5D;THIS+BOT+IS+CREATE+FOR+MULTI+DEVICE;SO+YOU+ALSO+CAN+BE+USE+THIS+BOT;THANK+FROM+AWAIS+MAYO+THE+KING+OF+KING+%F0%9F%91%91%F0%9F%92%96%F0%9F%98%8D&duration=4000" alt="Stylish Hacking Intro" />
+  </a>
+</div>
+
 
 <div align="center"> 
   <a href="https://youtube.com/@awaismayoking009"> 
