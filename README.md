@@ -5,7 +5,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <div align="center">
   <a href="https://github.com/awaismayoking009">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=55&pause=500&color=00FF00&center=true&vCenter=true&width=1000&height=180&lines=***+WELCOME+TO+AWAIS+MD+BOT+***+%F0%9F%98%B1;POWERED+BY+AWAIS+MAYO;THIS+BOT+IS+CREATE+FOR+MULTI+DEVICE;SO+YOU+ALSO+CAN+BE+USE+THIS+BOT;THANK+FROM+AWAIS+MAYO+THE+KING+OF+KING+%F0%9F%91%91%F0%9F%92%96%F0%9F%98%8D&duration=4000" alt="Super Fancy Hacking Intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=65&pause=400&color=00FFFF&center=true&vCenter=true&width=1100&height=220&lines=***+WELCOME+TO+AWAIS+MD+BOT+***+%F0%9F%98%B1;POWERED+BY+%3C%2FAWAIS+MAYO%3E;THIS+BOT+IS+CREATE+FOR+MULTI+DEVICE;SO+YOU+ALSO+CAN+BE+USE+THIS+BOT;THANK+FROM+AWAIS+MAYO+THE+KING+OF+KING+%F0%9F%91%91%F0%9F%92%96%F0%9F%98%8D&duration=3500" alt="Ultra Hacking Intro" />
   </a>
 </div>
 
