@@ -10,7 +10,7 @@ async function start() {
     const from = m.key.remoteJid;
     const text = m.message.conversation || m.message.extendedTextMessage?.text || "";
     
-    // ایک سادہ ریپلائی ٹیسٹ کے لیے
+    // > *Powered By Awais Mayo 👑*
     if (text === "Hi") {
         await bot.sendMessage(from, { text: "Hello! Bot is working." });
     }
